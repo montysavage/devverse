@@ -1,5 +1,5 @@
 /**
- *  Truth! That is the Question.
+ *  Truth!
  *
  * @author montys
  * @param $b
